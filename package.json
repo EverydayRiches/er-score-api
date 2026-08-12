@@ -1,6 +1,6 @@
-
-  "name": "er-score-api",
-  "version": "1.0.0",
-  "description": "Everyday Riches ER Score calculation API",
-  "private": true
+{
+"name": "er-score-api",
+"version": "1.0.0",
+"description": "Everyday Riches ER Score calculation API",
+"private": true
 }
